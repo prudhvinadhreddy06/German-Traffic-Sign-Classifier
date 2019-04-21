@@ -5,14 +5,20 @@ https://d17h27t6h515a5.cloudfront.net/topher/2017/February/5898cd6f_traffic-sign
 Achievied accuracy around 96%
 
 Train on 34799 samples, validate on 12630 samples
+
+
 Epoch 1/30
 34799/34799 [==============================] - 10s 286us/step - loss: 1.8930 - acc: 0.4808 - val_loss: 0.5692 - val_acc: 0.8365
+
 Epoch 2/30
 34799/34799 [==============================] - 7s 199us/step - loss: 0.4983 - acc: 0.8466 - val_loss: 0.3246 - val_acc: 0.9104
+
 Epoch 3/30
 34799/34799 [==============================] - 7s 199us/step - loss: 0.2855 - acc: 0.9135 - val_loss: 0.2394 - val_acc: 0.9348
+
 Epoch 4/30
 34799/34799 [==============================] - 7s 198us/step - loss: 0.1926 - acc: 0.9406 - val_loss: 0.2302 - val_acc: 0.9394
+
 Epoch 5/30
 34799/34799 [==============================] - 7s 198us/step - loss: 0.1488 - acc: 0.9550 - val_loss: 0.2184 - val_acc: 0.9423
 Epoch 6/30
