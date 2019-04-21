@@ -4,7 +4,7 @@ https://d17h27t6h515a5.cloudfront.net/topher/2017/February/5898cd6f_traffic-sign
 
 Achievied accuracy around 96%
 
-Train on 34799 samples, validate on 12630 samples
+Train on 34799 samples
 
 
 Epoch 1/30
